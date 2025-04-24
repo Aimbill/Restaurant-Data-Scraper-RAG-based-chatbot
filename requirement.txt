@@ -1,0 +1,24 @@
+# Core scraping and data processing
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.1.4
+tqdm==4.66.1
+numpy==1.26.2
+Pillow==10.1.0
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+
+# NLP and embedding models
+nltk==3.8.1
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch==2.1.2
+
+# Vector database
+chromadb==0.4.24
+
+# UI framework
+gradio==4.14.0
+
+# Misc
+typing-extensions==4.9.0
